@@ -30,7 +30,7 @@ If you want to test the API REST routes you can use Insomnia. Import the workspa
 
 ## 🛠 Getting started
 1. Clone this repo running on your terminal ````git clone https://github.com/Gust4voSales/notifications-microservice.git```` 
-2. Create a Kafka instance (Upstash free tier recommended) with the "notifications.send-notification" topic
+2. Create a Kafka instance (Upstash free tier recommended) and add a "notifications.send-notification" topic (https://docs.upstash.com/kafka)
 
 ### &nbsp; &nbsp;Run NotificationsConsumer (main application)
 3. `cd` into `notifications-consumer`
