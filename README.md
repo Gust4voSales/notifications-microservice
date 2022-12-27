@@ -26,6 +26,7 @@ If you want to test the API REST routes you can use Insomnia. Import the workspa
 - **NestJS** — A progressive Node.js framework for building efficient, reliable and scalable server-side applications
 - **Prisma** — An open source next-generation ORM
 - **Kafka** — A distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications
+- **Jest** — Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
 ## 🛠 Getting started
 1. Clone this repo running on your terminal ````git clone https://github.com/Gust4voSales/notifications-microservice.git```` 
